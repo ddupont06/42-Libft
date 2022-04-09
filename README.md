@@ -92,7 +92,7 @@ To use the Libft library in your code, include its header in your C projects:
 #include "libft.h"
 ```
 
-Or compile your C project with the `libft.a` file:
+And compile your C project with the `libft.a` file:
 
 ```shell
 gcc <projet.c> libft.a -o <project_name>
